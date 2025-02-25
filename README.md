@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I am Hafizur Rahaman. I'm currently working on Mobile Development. As a mobile app developer, I use Flutter which is a framework for cross-platform native app development and I really love it.</h4>
+<h4 align="left">I am Emran Haque, a blockchain community specialist with 5+ years' experience building and nurturing thriving communities. I lead a talented team in creating innovative projects that seamlessly bridge technology and user experience for transformative results.</h4>
 
 ###
 
@@ -13,19 +13,19 @@
         <table align="center">
             <tr>
                 <td align="center" width="100">
-                    <a href="mailto:hafizur.rahman.cs@gmail.com">
+                    <a href="mailto:emran.huk2016@gmail.com">
                         <img src="https://skillicons.dev/icons?i=gmail" alt="icon" width="45" height="45" />
                         <br>Email
                     </a>
                 </td>
                 <td align="center" width="100">
-                    <a href="https://linkedin.com/in/hafizur-rahman-201941289" target="_blank">
+                    <a href="https://www.linkedin.com/in/emran-haque-903160162/" target="_blank">
                         <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
                         <br>Linkedin
                     </a>
                 </td>
                 <td align="center" width="100">
-                    <a href="https://t.me/hafizflow45" target="_blank">
+                    <a href="https://t.me/emranrx" target="_blank">
                         <img src="https://www.svgrepo.com/show/354443/telegram.svg" width="45" height="45" alt="Telegram" />
                         <br>Telegram
                     </a>
@@ -35,83 +35,39 @@
         <br><br>
     </div>
 
-
-
-<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
+<h3 align="center"><samp>✨ Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="icon" width="45" height="45" />
-      </a>
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45" />
       <br>Flutter
     </td>
     <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="45" height="45" />
-      <br>Dart
-    </td>
-    <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="45" height="45" />
-      </a>
-      <br>Firebase
-    </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/bloc.png" alt="icon" width="45" height="50" />
-      <br>BLoC
-    </td>
-   <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="icon" width="45" height="50" />
-      <br>Riverpod
-    </td>
-      <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQ Lite" />
-      <br>SQ Lite
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="45" height="45" />
-      <br>Kotlin
-    </td>
-       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45" />
       <br>Figma
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=idea" alt="icon" width="65" height="65" />
-      <br>Intellij Idea
-    </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Adobe_XD_CC_icon.svg" alt="Adobe XD" width="45" height="45" />
+      <br>Adobe XD
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="45" height="45" />
+      <br>Adobe Illustrator
     </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canva_logo.svg" alt="Canva" width="45" height="45" />
+      <br>Canva
     </td>
-           <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-          <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="45" height="45" />
+      <br>Solidity
     </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>My SQL
-    </td>
-           <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-       
   </tr>
+</table>
+
+
+
  <tr>
         <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
