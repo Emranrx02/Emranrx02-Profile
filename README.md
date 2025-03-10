@@ -48,17 +48,10 @@
       <br>Figma
     </td>
     <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Adobe_XD_CC_icon.svg" alt="Adobe XD" width="45" height="45" />
-      <br>Adobe XD
-    </td>
-    <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="45" height="45" />
       <br>Adobe Illustrator
     </td>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canva_logo.svg" alt="Canva" width="45" height="45" />
-      <br>Canva
-    </td>
+
     <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="45" height="45" />
       <br>Solidity
